@@ -1,0 +1,4 @@
+github.com/alexey-ernest/go-hft-orderbook v0.0.0-20221029221532-8a64a73d2acb h1:3k8+eg9lx3s6REU4N26btsGEJCvKF61k053T8oEDEeM=
+github.com/alexey-ernest/go-hft-orderbook v0.0.0-20221029221532-8a64a73d2acb/go.mod h1:9Oj4B9ns4akVjItvq1Ux9YfjYQfSpJglL21rXv+7794=
+github.com/shopspring/decimal v1.3.1 h1:2Usl1nmF/WZucqkFZhnfFYxxxu8LG21F6nPQBE5gKV8=
+github.com/shopspring/decimal v1.3.1/go.mod h1:DKyhrW/HYNuLGql+MJL6WCR6knT2jwCFRcu2hWCYk4o=
